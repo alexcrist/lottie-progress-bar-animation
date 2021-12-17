@@ -16,12 +16,6 @@ svg > g > g > g > path {
   stroke-width: 3px;
 }
 
-#tube-background {
-  position: absolute;
-  height: 100%;
-  width: 200px;
-}
-
 .fire, #tube, #sparkles {
   position: absolute;
   width: 100%;

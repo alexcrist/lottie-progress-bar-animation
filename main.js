@@ -30,7 +30,7 @@ let tubeAnimation;
   
   // Load sparkles animation
   const sparklesAnimation = await initAnimation('https://assets2.lottiefiles.com/packages/lf20_nwfrjcrb.json', 'sparkles');
-  sparklesAnimation.setSpeed(3);
+  sparklesAnimation.setSpeed(1);
   
   // Load fire animations
   for (const id of ['fire-1', 'fire-2']) {
