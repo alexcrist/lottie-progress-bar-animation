@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+}
+
+#outer-container {
+  width: 100vw;
+  overflow: hidden;
+}
+
+#container {
+  position: relative;
+  height: 100vh;
+}
+
+svg > g > g > g > path {
+  stroke-width: 3px;
+}
+
+#tube-background {
+  position: absolute;
+  height: 100%;
+  width: 200px;
+}
+
+.fire, #tube, #sparkles {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+#fire-1 {
+  left: -17%;
+}
+
+#fire-2 {
+  left: 17%;
+}
+
+#sparkles {
+  transform: rotate(90deg);
+  top: -300px;
+  height: 120%;
+}
