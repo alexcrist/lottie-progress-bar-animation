@@ -1,3 +1,3 @@
 # Lottie Progress Animation
 
-Drag up and down on the screen: 
+Click and drag up and down on the screen on this web page: https://alexcrist.github.io/lottie-progress-bar-animation/
